@@ -4,6 +4,7 @@
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
+  --color-body-bg-bio-light: #EBFEF9;
   --color-card-bg-light: #ebf3fe;
   --color-card-bg-dark: #7cabf9;
   --color-body-bg-light: #ffffff;
@@ -30,3 +31,4 @@ html,
 body {
   @apply bg-body-bg-light dark:bg-body-bg-dark transition duration-300;
 }
+
