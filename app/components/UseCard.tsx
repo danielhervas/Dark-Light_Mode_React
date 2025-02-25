@@ -1,5 +1,5 @@
 import userImage from "../assets/rectangulo_chica.png";
-
+import '../app.css';
 const UserCard: React.FC = () => {
   return (
     <div className="flex justify-center items-center h-full">

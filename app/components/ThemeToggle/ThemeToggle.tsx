@@ -1,6 +1,6 @@
 import { useDarkMode } from "../../hooks/useDarkMode";
 import { Sun, Moon, Monitor } from "lucide-react"; // Importamos los iconos
-
+import '../../app.css';
 export default function ThemeToggle() {
   const { theme, toggleTheme } = useDarkMode();
 

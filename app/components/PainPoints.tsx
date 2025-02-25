@@ -1,3 +1,4 @@
+import '../app.css';
 const PainPoints: React.FC = () => {
     return (
       <div className="p-4 rounded-lg shadow-md bg-card-bg-light dark:bg-card-bg-dark">
