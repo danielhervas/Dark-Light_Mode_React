@@ -1,5 +1,5 @@
 import type { Route } from "./+types/home";
-import "../App.css"; // O donde tengas la configuración de Tailwind
+import "../app.css"; // O donde tengas la configuración de Tailwind
 
 import ThemeToggle from "~/components/ThemeToggle/ThemeToggle";
 import UseCard from "~/components/UseCard";
