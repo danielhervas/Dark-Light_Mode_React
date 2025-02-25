@@ -15,10 +15,6 @@ Este proyecto es una página web desarrollada con React Router que implementa un
 
 Basta con hacer npm install y ejecutar npm run dev para poder visualizar el proyecto.
 
-## Repositorio
-[Repositorio del Proyecto](https://github.com/danielhervas/Dark-Light_Mode_React)
-
-
 - **Nombre**: Daniel Hervás Muñoz
 - **Asignatura**: Diseño de Interfaces Web
 - **Curso**: 2º DAW
