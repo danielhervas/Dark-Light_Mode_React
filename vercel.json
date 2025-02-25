@@ -1,0 +1,6 @@
+{
+    "build": {
+      "ignoreCommand": "rm -rf node_modules"
+    }
+  }
+  
